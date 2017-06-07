@@ -1,4 +1,4 @@
-# Google Homepage Replica
+# [Google Homepage Replica](https://mightyjoew.github.io/Google-Homepage-Replica/)
 
 ### Replica using HTML and CSS
 
